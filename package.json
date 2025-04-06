@@ -1,0 +1,29 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.12.5",
+    "graphql": "^16.10.0",
+    "graphql-request": "^7.1.2",
+    "lucide-react": "^0.482.0",
+    "motion": "^12.6.2",
+    "next": "15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-feather": "^2.0.10"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "22.13.10",
+    "@types/react": "19.0.10",
+    "tailwindcss": "^4",
+    "typescript": "5.8.2"
+  }
+}
